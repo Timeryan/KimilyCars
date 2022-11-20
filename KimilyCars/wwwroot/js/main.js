@@ -244,7 +244,7 @@
 			if(this.name === 'contactTelegram'){
 				json['messengers'].push('telegram');
 			}
-			if(this.name === 'contactTelegram'){
+			if(this.name === 'contactWhatsapp'){
 				json['messengers'].push('whatsapp');
 			}
         });
