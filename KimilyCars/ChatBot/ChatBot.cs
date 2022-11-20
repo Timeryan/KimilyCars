@@ -26,12 +26,12 @@ public class ChatBot : IChatBot
                 chatId: receiver,
                 text: ChatBotHelper.GenerateRequestMessage(request),
                 cancellationToken: cancellation);
-            Thread.Sleep(100);
             try
             {
                 if (!string.IsNullOrEmpty(request.Phone) && request.Messengers != null &&
                     request.Messengers.Contains("telegram"))
                 {
+                    Thread.Sleep(100);
                     await _botClient.SendContactAsync(chatId: receiver,
                         phoneNumber: request.Phone,
                         firstName: request.Name,
