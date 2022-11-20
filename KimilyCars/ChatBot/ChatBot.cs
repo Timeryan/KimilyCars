@@ -21,10 +21,12 @@ public class ChatBot : IChatBot
     {
         foreach (var receiver in _receivers)
         {
+            Thread.Sleep(100);
             await _botClient.SendTextMessageAsync(
                 chatId: receiver,
                 text: ChatBotHelper.GenerateRequestMessage(request),
                 cancellationToken: cancellation);
+            Thread.Sleep(100);
             try
             {
                 if (!string.IsNullOrEmpty(request.Phone) && request.Messengers != null &&
