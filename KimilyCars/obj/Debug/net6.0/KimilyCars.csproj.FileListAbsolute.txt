@@ -1,0 +1,56 @@
+C:\RiderSolutions\KimilyCars\KimilyCars\bin\Debug\net6.0\appsettings.json
+C:\RiderSolutions\KimilyCars\KimilyCars\bin\Debug\net6.0\KimilyCars.exe
+C:\RiderSolutions\KimilyCars\KimilyCars\bin\Debug\net6.0\KimilyCars.deps.json
+C:\RiderSolutions\KimilyCars\KimilyCars\bin\Debug\net6.0\KimilyCars.runtimeconfig.json
+C:\RiderSolutions\KimilyCars\KimilyCars\bin\Debug\net6.0\KimilyCars.dll
+C:\RiderSolutions\KimilyCars\KimilyCars\bin\Debug\net6.0\KimilyCars.pdb
+C:\RiderSolutions\KimilyCars\KimilyCars\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\RiderSolutions\KimilyCars\KimilyCars\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\RiderSolutions\KimilyCars\KimilyCars\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\RiderSolutions\KimilyCars\KimilyCars\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\RiderSolutions\KimilyCars\KimilyCars\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\RiderSolutions\KimilyCars\KimilyCars\bin\Debug\net6.0\Telegram.Bot.dll
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.csproj.AssemblyReference.cache
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.AssemblyInfoInputs.cache
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.AssemblyInfo.cs
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.csproj.CoreCompileInputs.cache
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.MvcApplicationPartsAssemblyInfo.cs
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.MvcApplicationPartsAssemblyInfo.cache
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\staticwebassets.build.json
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\staticwebassets.development.json
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\scopedcss\bundle\KimilyCars.styles.css
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.csproj.CopyComplete
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.dll
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\refint\KimilyCars.dll
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.pdb
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.genruntimeconfig.cache
+C:\RiderSolutions\KimilyCars\KimilyCars\obj\Debug\net6.0\ref\KimilyCars.dll
+E:\My files\KimilyCars\KimilyCars\KimilyCars\bin\Debug\net6.0\appsettings.json
+E:\My files\KimilyCars\KimilyCars\KimilyCars\bin\Debug\net6.0\KimilyCars.exe
+E:\My files\KimilyCars\KimilyCars\KimilyCars\bin\Debug\net6.0\KimilyCars.deps.json
+E:\My files\KimilyCars\KimilyCars\KimilyCars\bin\Debug\net6.0\KimilyCars.runtimeconfig.json
+E:\My files\KimilyCars\KimilyCars\KimilyCars\bin\Debug\net6.0\KimilyCars.dll
+E:\My files\KimilyCars\KimilyCars\KimilyCars\bin\Debug\net6.0\KimilyCars.pdb
+E:\My files\KimilyCars\KimilyCars\KimilyCars\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\My files\KimilyCars\KimilyCars\KimilyCars\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\My files\KimilyCars\KimilyCars\KimilyCars\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\My files\KimilyCars\KimilyCars\KimilyCars\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My files\KimilyCars\KimilyCars\KimilyCars\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My files\KimilyCars\KimilyCars\KimilyCars\bin\Debug\net6.0\Telegram.Bot.dll
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.csproj.AssemblyReference.cache
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.GeneratedMSBuildEditorConfig.editorconfig
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.AssemblyInfoInputs.cache
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.AssemblyInfo.cs
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.csproj.CoreCompileInputs.cache
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.MvcApplicationPartsAssemblyInfo.cs
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.MvcApplicationPartsAssemblyInfo.cache
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\staticwebassets.build.json
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\staticwebassets.development.json
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\scopedcss\bundle\KimilyCars.styles.css
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.csproj.CopyComplete
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.dll
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\refint\KimilyCars.dll
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.pdb
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\KimilyCars.genruntimeconfig.cache
+E:\My files\KimilyCars\KimilyCars\KimilyCars\obj\Debug\net6.0\ref\KimilyCars.dll
