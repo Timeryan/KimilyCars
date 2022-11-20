@@ -25,14 +25,22 @@ public class ChatBot : IChatBot
                 chatId: receiver,
                 text: ChatBotHelper.GenerateRequestMessage(request),
                 cancellationToken: cancellation);
-            if (!string.IsNullOrEmpty(request.Phone) && request.Messengers != null &&
-                request.Messengers.Contains("telegram"))
+            try
             {
-                await _botClient.SendContactAsync(chatId: receiver,
-                    phoneNumber: request.Phone,
-                    firstName: request.Name,
-                    cancellationToken: cancellation);
+                if (!string.IsNullOrEmpty(request.Phone) && request.Messengers != null &&
+                    request.Messengers.Contains("telegram"))
+                {
+                    await _botClient.SendContactAsync(chatId: receiver,
+                        phoneNumber: request.Phone,
+                        firstName: request.Name,
+                        cancellationToken: cancellation);
+                }
             }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
+            
         }
         return new SendResponse();
     }
