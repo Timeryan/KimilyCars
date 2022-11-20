@@ -12,6 +12,12 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<IChatBot, ChatBot>();
 builder.Services.AddScoped<ITelegramService, TelegramService>();
+builder.Services.AddCors(o => o.AddPolicy("MyPolicy", corsPolicyBuilder =>
+{
+    corsPolicyBuilder.AllowAnyOrigin()
+        .AllowAnyMethod()
+        .AllowAnyHeader();
+}));
 
 var app = builder.Build();
 
@@ -23,7 +29,7 @@ if (app.Environment.IsDevelopment())
 app.UseSwagger();
 app.UseSwaggerUI();
 app.UseHttpsRedirection();
-
+app.UseCors("MyPolicy");
 app.UseAuthorization();
 
 app.MapControllers();
