@@ -726,7 +726,7 @@ header .logo a {
 	width: 114px;
 	height: 66px;
 	background: url("../images/logoK@2x.png") no-repeat center;
-	background-size: 61px 14px;
+	background-size: 50px 60px;
 }
 
 /* header social */
@@ -2523,16 +2523,16 @@ footer hr {
 footer .info {
 	width: 90%;
 	max-width: 600px;
-	margin: 42px auto 0px;
+	margin: 0px auto 0px;
 	text-align: center;
 	clear: both;
 }
 
 footer .footer-logo {
 	width: 100px;
-	height: 23px;
+	height: 100px;
 	background: url("../images/logoW@2x.png") no-repeat center;
-	background-size: 100px 23px;
+	background-size: 80px 90px;
 	margin: 0 auto 21px;
 	display: block;
 	filter: alpha(opacity=10);
